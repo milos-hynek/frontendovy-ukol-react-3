@@ -1,0 +1,8 @@
+.shoppingListAddInner{padding:8px;margin-right:4px;margin-top:4px;border:2px solid var(--blue);-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;background-color:var(--white);height:55px;overflow:hidden;}
+.shoppingListAddInner button {width:100%;height:35px;font-size:16px;padding:4px;}
+.shoppingListAddInner button:hover{cursor:pointer;}
+.shopingListAddForm{padding:8px;margin-right:4px;margin-top:8px;border:2px solid var(--blue);-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;background-color:var(--white);}
+.shopingListAddForm h3{text-align:center}
+.shopingListAddForm b, .shopingListAddForm input, .shopingListAddForm button{margin:4px;padding:3px;}
+.show-add{display:block;}
+.hide-add{display:none;}

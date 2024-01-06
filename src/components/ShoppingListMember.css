@@ -1,0 +1,5 @@
+.shoppingListMemberInner{padding:8px;margin-right:4px;margin-top:4px;border:2px solid var(--blue);-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px;background-color:var(--white);height:55px;overflow:hidden;}
+.SLMname{width:80%;display:inline-block;line-height:36px;}
+.SLMdelButton{width:20%;text-align:right;display:inline-block;vertical-align:top;}
+.SLMdelButton button {width:35px;height:35px;font-size:20px;padding:4px;color:var(--red);}
+.SLMdelButton button:hover{cursor:pointer;}
